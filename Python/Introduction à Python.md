@@ -62,7 +62,7 @@ Thonny est un environnement de développement intégré pour Python conçu pour 
 
 Allez ouvrir Thonny. 
 
-![](D:\DISQUE ESSB\lycee\NSI\python\thonny.jpg)
+![](/Python/IMG/thonny.jpg)
 
 Vous avez, normalement, cette fenêtre qui apparaitra devant vous. 
 
