@@ -143,7 +143,7 @@ Pour la base 10, chaque rang représente une puissance de 10, pour la base 2, ch
 
 ​		a. Convertir $10110_2$ en base 10. 
 
-​		b. Convertir $10001001_2$ base 10
+​		b. Convertir $10001001_2$ en base 10
 
 ### **III. L'hexadécimal**
 
@@ -239,9 +239,9 @@ Pour la base 10, chaque rang représente une puissance de 10, pour la base 2, ch
 
 #### 	Exercice 6 :
 
-​	a. Convertir $1387_{10}$ en base 16. 
+​	a. Convertir $1387_{10}$  en base 16. 
 
-​	b. Convertir $2500_{10}$ en base 16.  
+​	b. Convertir $2500_{10}$  en base 16.  
 
 ​	Pour convertir un nombre hexadécimal en décimal, le principe est le même que pour la conversation 	"binaire en décimal" sauf qu'au lieu d'utiliser des $2^n$, on   utilise des $16^n$    :
 
@@ -264,7 +264,7 @@ Pour la base 10, chaque rang représente une puissance de 10, pour la base 2, ch
 
 #### 	Exercice 7 : 
 
-​	a.   Convertir $1B87_{16}$en base 10. 
+​	a.   Convertir $1B87_{16}$ en base 10. 
 
 ​	b. Convertir $A124_{16}$ en base 10. 
 
