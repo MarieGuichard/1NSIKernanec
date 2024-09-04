@@ -131,7 +131,7 @@ Pour la base 10, chaque rang représente une puissance de 10, pour la base 2, ch
 
 ​	Exemple:
 
-​	$ 11010011_2$ = $1 \times 2^7 + 1 \times 2^6 + 0 \times 2^5 + 1 \times 2^4 + 0 \times 2^3  + 0 \times 2^2 + 1 \times 2^1 + 1 \times 2^0$
+​	$11010011_2$ = $1 \times 2^7 + 1 \times 2^6 + 0 \times 2^5 + 1 \times 2^4 + 0 \times 2^3  + 0 \times 2^2 + 1 \times 2^1 + 1 \times 2^0$
 
 ​			    = 128 + 64 + 16 + 2 + 1 
 
