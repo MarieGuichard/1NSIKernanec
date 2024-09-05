@@ -72,7 +72,7 @@ Travaillons avec un exemple : déterminons la représentation de -12 sur 8 bits
 
 - Ajoutons 1 au nombre obtenu à l'étape précédente : les retenues sont notées en rouge
 
-  ![](D:\DISQUE ESSB\lycee\NSI\les types simples\représentation binaire d'un nombre relatif\complement_a_2.jpg)
+  ![](/RepresentationsDonnees/IMG/complement_a_2.jpg)
 
 -  La représentation de -12 sur 8 bits est donc : 11110100
 
@@ -80,7 +80,7 @@ Comment peut-on être sûr que 11110100 est bien la représentation de -12 ?
 
 Nous pouvons affirmer sans trop de risque de nous tromper que 12 + (-12) = 0, vérifions que cela est vrai pour notre représentation sur 8 bits.
 
-​	![](D:\DISQUE ESSB\lycee\NSI\les types simples\représentation binaire d'un nombre relatif\somme_12.jpg)
+​	![](/RepresentationsDonnees/IMG/somme_12.jpg)
 
 
 
