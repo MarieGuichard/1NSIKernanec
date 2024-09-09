@@ -125,7 +125,7 @@ Voici deux exemples de désastres causés par une mauvaise gestion des erreurs d
 
 ​	Travaillons avec le format 32 bits 
 
-​	![](D:\DISQUE ESSB\lycee\NSI\les types simples\représentation des nombres réels\normeIEEE754.jpg)
+​	![](/RepresentationsDonnees/IMG/normeIEEE754.jpg)
 
 
 
