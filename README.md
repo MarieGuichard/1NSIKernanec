@@ -7,11 +7,11 @@ Progression
 6. Python: les boucles non bornées.
 7. Python: Les Fonctions
 8. Projet numéro 1: construction d'une maison.
-9. Le binaire
-10. Les Flottants.
-11. Les chaines de caractères.
-12. Les Tuples
-13. Les Listes
+9. ReprésentationDonnees: Le binaire
+10.  ReprésentationDonnees:Les Flottants.
+11. Python:Les chaines de caractères.
+12. DonneesStructurees:Les Tuples
+13. DonneesStructurees: Les Listes
 14. Projet numéro 2: puissance 4
 15. Les booléens.
 16. L'architecture Von Neumann.
