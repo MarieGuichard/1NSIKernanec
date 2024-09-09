@@ -10,7 +10,7 @@ Avant 1960 de nombreux systèmes de codage de caractères existaient, ils étaie
 
 À chaque caractère est associé un nombre binaire sur 8 bits (1 octet). En faite, seuls 7 bits sont utilisés pour coder un caractère, le 8e bit n'est pas utilisé pour le codage des caractères. Avec 7 bits il est possible de coder jusqu'à 128 caractères ce qui est largement suffisant pour un texte écrit en langue anglaise (pas d'accents et autres lettres particulières). 
 
-![](D:\DISQUE ESSB\lycee\NSI\les types simples\représentation d'un texte\ascii.jpg)
+![](/RepresentationsDonnees/IMG/ascii.jpg)
 
 Comme vous pouvez le constater dans le tableau ci-dessus, au "A" majuscule correspond le code binaire $1   0000001_2$  ou $65_{10}$ ou $41_{16}$. 
 
@@ -130,7 +130,7 @@ Le principe de l'encodage UTF-8 est le suivant :
 
 Nous pouvons résumer cela dans le tableau suivant :
 
-![](D:\DISQUE ESSB\lycee\NSI\les types simples\représentation d'un texte\unicode.jpg)
+![](/RepresentationsDonnees/IMG/unicode.jpg)
 
 Question 4 : En utilisant la norme UTF-8, donner le nombre binaire associé à :
 
