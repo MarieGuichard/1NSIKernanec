@@ -38,7 +38,7 @@ Donner sa table de vérité.
 
 
 
-**Exercice 4 **: On considère la fonction booléenne à trois variables suivantes :
+**Exercice 4:** On considère la fonction booléenne à trois variables suivantes :
 
 f(A,B,C) = (A and notB and not C)or (not A and B and not C)or(not A and not B and C)
 
