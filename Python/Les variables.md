@@ -190,7 +190,7 @@ Dans un algorithme, il faut donner des valeurs aux variables. Il existe deux fa�
 
   | Instructions                                       | Signification                                                | Affichage  |
   | :------------------------------------------------- | :----------------------------------------------------------- | :--------- |
-  | nombre=7 		print(nombre)                     | Affiche la valeur de la variable nombre                      | 7          |
+  | nombre=7 		   print(nombre)                     | Affiche la valeur de la variable nombre                      | 7          |
   | nombre = 7 		           print(« nombre »)    | Affiche le texte entre guillemets. Les guillemets peuvent être simples ou doubles | nombre     |
   | nombre = 7  		 	print(« nombre= »,nombre) | Affiche à la suite le texte entre 		guillemets puis la valeur de la variable nombre | nombre = 7 |
 
