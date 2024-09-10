@@ -226,15 +226,15 @@ On appelle circuit logique (ou circuit combinatoire) un ensemble de portes logiq
 
 On utilise des symboles pour représenter les différents opérateurs :
 
-![](D:\DISQUE ESSB\lycee\NSI\les types simples\les booleens\ciricuit_logique2.jpg)
+![](/RepresentationsDonnees/IMG/ciricuit_logique2.jpg)
 
-​	![](D:\DISQUE ESSB\lycee\NSI\les types simples\les booleens\circuitlogique1.jpg)
+​	![](/RepresentationsDonnees/IMG/circuitlogique1.jpg)
 
 
 
 ​	Exemple :
 
-![](D:\DISQUE ESSB\lycee\NSI\les types simples\les booleens\circuitlogiqueex.JPG)
+![](/RepresentationsDonnees/IMG/circuitlogiqueex.JPG)
 
 1. compléter avec les expressions manquantes.
 2. Quelle expression représente le schéma complet ?  
