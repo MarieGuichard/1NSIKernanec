@@ -123,7 +123,7 @@ La comète Encke qui est passée pour la dernière fois en 2017, a  une période
 
 1. On appelle a le nombre de révolutions de la comète Tchouri et b le nombre de révolutions de la comète Encke. Écrire l'équation que doit vérifier a et b pour que les deux comètes traversent le système solaire la même année.
 2. Copier le script ci-dessous dans votre éditeur et compléter le de sorte qu'il réponde à la question posée.
-   ```
+   ```python
    for a in range(10):
       for b in range(10):
          if ......
