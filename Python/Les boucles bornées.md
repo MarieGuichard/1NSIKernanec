@@ -122,5 +122,11 @@ Exercice 3 : Soit  la fonction définie sur ℝ par $f(x)=3x²-5x+1$. Écrire un
 La comète Encke qui est passée pour la dernière fois en 2017, a  une période de révolution de 3 ans. On cherche à déterminer en quelle année, au plus tôt, les deux comètes Tchouri et Encke traverseront simultanément notre système solaire. 
 
 1. On appelle a le nombre de révolutions de la comète Tchouri et b le nombre de révolutions de la comète Encke. Écrire l'équation que doit vérifier a et b pour que les deux comètes traversent le système solaire la même année.
-2. Copier le script ci-dessous dans votre éditeur et compléter le de sorte qu'il réponde à la question posée.  
-3. Exécuter ce programme et en déduire la prochaine année de rencontre de ces deux comètes dans le système solaire.
+2. Copier le script ci-dessous dans votre éditeur et compléter le de sorte qu'il réponde à la question posée.
+   '''
+   for a in range(10):
+      for b in range(10):
+         if ......
+  '''
+
+4. Exécuter ce programme et en déduire la prochaine année de rencontre de ces deux comètes dans le système solaire.
