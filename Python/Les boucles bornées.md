@@ -102,7 +102,7 @@ Avec les boucles **for,** on fait réguliérement appel à la fonction **range()
 
 1. Écrire un programme qui affiche la table de multiplication de cinq comme ci-dessous. 
 
-![](D:\DISQUE ESSB\lycee\NSI\python\table_multiplication.jpg)
+![](/Python/IMG/table_multiplication.jpg)
 
 2. Modifier votre programme afin que l'utilisateur puisse demander la table de multiplication qu'il souhaite.
 3. Modifier votre programme pour que l'utilisateur puisse demander une amplitude différente sur la table de multiplication (par exemple, il pourrait demander la table de 7 entre 4 et 13).  
