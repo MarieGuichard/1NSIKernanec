@@ -129,7 +129,7 @@ def somme_carres(a,b):
 
    b. 		Compléter le tableau suivant :
 
-| Vitesse en km  | 100  | 160  | 90   |
+| Distance en km  | 100  | 160  | 90   |
 | -------------- | ---- | ---- | ---- |
 | Temps en heure | 2    | 1,5  | 0,5  |
 | Réponse.       |      |      |      |
