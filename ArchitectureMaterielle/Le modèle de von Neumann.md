@@ -37,7 +37,7 @@ Nous distinguerons différents types de mémoire:
 
 - La RAM (random-access memory) ou mémoire vive: elle se présente le plus souvent sous forme de barrettes que l'on peut retirer ou ajouter dans un ordinateur. Son rôle est notamment de stocker les données qui vont être traitées par l'unité centrale de traitement (UCT) (un microprocesseur dans la plupart des appareils modernes). On peut accéder à la mémoire vive alternativement en lecture ou en écriture.
 
-  ![](D:\DISQUE ESSB\lycee\NSI\architectures matérielles\RAM_n.jpg)
+  ![](/ArchitectureMaterielle/IMG/RAM_n.jpg)
 
   Le temps d'accès à la mémoire vive est de l'ordre de quelques dizaines de nanosecondes. 
 
@@ -67,7 +67,7 @@ L'idée essentielle de Von Neumann est que la mémoire doit servir non seulement
 
 Une machine doit s'organiser avec une mémoire, une unité arithmétique et logique (dite UAL), une unité de contrôle, des systèmes d’entrées sorties et une horloge pour synchroniser le fonctionnement. Les différents éléments échangent des informations à l'aide de bus. 
 
-![](D:\DISQUE ESSB\lycee\NSI\architectures matérielles\archi_VN.jpg)
+![](/ArchitectureMaterielle/IMG/archi_VN.jpg)
 
 L'UAL et l'unité de contrôle sont regroupés dans le processeur qui communiquent avec la 	mémoire par un bus. Ces composants constituent l'unité centrale, située sur la carte mère 	d'un ordinateur.  Le tout est rythmé par une horloge interne qui détermine la fréquence du 	processeur. 
 
@@ -88,7 +88,7 @@ Exercice 3: Répondre aux questions suivantes
 
 ​	On la représente habituellement par ce schéma : 
 
-![](D:\DISQUE ESSB\lycee\NSI\architectures matérielles\UAL.jpg)
+![](/ArchitectureMaterielle/IMG/UAL.jpg)
 
 
 
@@ -194,7 +194,7 @@ M999 est constitué :
 - d'une unité de commande -ou unité de contrôle- qui pilote l'ordinateur
 - de dispositifs d'entrée-sortie.
 
-![](D:\DISQUE ESSB\lycee\NSI\architectures matérielles\M999.JPG)
+![](/ArchitectureMaterielle/IMG/M999.JPG)
 
 #### 1. Mémoire et registres
 
@@ -277,23 +277,5 @@ Les registres sont désignés par les valeurs suivantes :
 
 
 
-
-
-
-
-
-
-
-Exercice 2 : Qu'en est-il si l'état de la mémoire est le suivant ?
-
-Exercice 3 : 
-
-a. Écrire un programme M999 qui affiche le minimum de 2 entiers saisis au clavier. 
-
-b. Quelle modification doit-on apporter si on désire saisir 3 entiers ? N entiers ? 
-
-
-
-Exercice 4 : 
 
 Écrire un programme M999 de calcul du produit de deux entier (on ne dispose pas de l'opération de multiplication). 
