@@ -247,7 +247,7 @@ Pour la base 10, chaque rang représente une puissance de 10, pour la base 2, ch
 
 ​	exemple :
 
-​	$12B7_{16}$=$1\times 16^3 + 2 \times 16^2 + 11 \times 16^1 + 7 \times 16^0$ = $479112_{10}$
+​	$12B7_{16}$=$1 \times 16^3 + 2 \times 16^2 + 11 \times 16^1 + 7 \times 16^0$ = $479112_{10}$
 
 
 
