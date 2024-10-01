@@ -215,7 +215,7 @@ Pour la base 10, chaque rang représente une puissance de 10, pour la base 2, ch
 
 ​	À l'inverse, passer d'un nombre hexadécimal à sa représentation binaire se fait en remplaçant 	    	chaque chiffre pour son équivalent sur 4 bits.
 
-​	Par exemple,  $7F_{16}$= 0111 1111 =$01111111_2$ 
+​	Par exemple,  $7F_{16}$= 0111 1111 = $01111111_2$ 
 
 ​	Exercice 5 : 
 
