@@ -14,21 +14,21 @@ Quand un ordinateur A "désire" envoyer des données à un ordinateur B, l'ordin
 
 Ensuite le protocole IP prend le relais et utilise les données mises en forme par le protocole TCP afin de créer des paquets des données. Après quelques autres opérations qui ne seront pas évoquées ici, les paquets de données pourront commencer leur voyage sur le réseau jusqu'à l'ordinateur B. Il est important de bien comprendre que le protocole IP "encapsule" les données issues du protocole TCP afin de constituer des paquets de données. 
 
- ![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_1.jpg)
+ ![](/Reseau/IMG/reseau_1.jpg)
 
 Une fois arrivées à destination (ordinateur B), les données sont "désencapsulées" : on récupère les données TCP contenues dans les paquets afin de pouvoir les utiliser. 
 
- ![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_2.jpg)
+ ![](/Reseau/IMG/reseau_2.jpg)
 
 Le protocole IP s'occupe uniquement de faire arriver à destination les paquets en utilisant l'adresse IP de l'ordinateur de destination. Les adresses IP de l'ordinateur de départ (ordinateur A) et de l'ordinateur destination (ordinateur B) sont ajoutées aux paquets de données. 
 
- ![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_3.jpg)
+ ![](/Reseau/IMG/reseau_3.jpg)
 
 Le protocole TCP permet de s'assurer qu'un paquet est bien arrivé à destination. En effet quand l'ordinateur B reçoit un paquet de données en provenance de l'ordinateur A, l'ordinateur B envoie un accusé de réception à l'ordinateur A (un peu dans le genre "OK, j'ai bien reçu le paquet"). Si l'ordinateur A ne reçoit pas cet accusé de réception en provenance de B, après un temps prédéfini, l'ordinateur A renverra le paquet de données vers l'ordinateur B. 
 
 Nous pouvons donc résumer le processus d'envoi d'un paquet de données comme suit : 
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_4.jpg)
+![](/Reseau/IMG/reseau_4.jpg)
 
 
 
