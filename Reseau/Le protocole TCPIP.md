@@ -14,13 +14,13 @@ Nous allons voir le fonctionnement général d’une communication simple d’un
 
 La couche application de l’ordinateur A veut envoyer des données vers la couche application de l’ordinateur B. L’application fourni donc des données à la couche transport de l’ordinateur A.
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_5.jpg)
+![](/Reseau/IMG/reseau_5.jpg)
 
 **Transport A**
 
 La couche transport de l’ordinateur A reçoit les données et les encapsule en ajoutant des informations (port, application…) c’est le protocole TCP ou UDP.
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_6.jpg)
+![](/Reseau/IMG/reseau_6.jpg)
 
 
 
@@ -32,7 +32,7 @@ La couche transport envoie l’ensemble à la couche internet.
 
 La couche internet encapsule les informations venant de la couche transport en ajoutant entre autre les adresses IP de l’ordinateur A et de l’ordinateur B. 
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_7.jpg)
+![](/Reseau/IMG/reseau_7.jpg)
 
 Tout ceci est envoyé à la couche accès réseau.
 
@@ -50,7 +50,7 @@ L'adresse MAC est liée au matériel, chaque carte réseau (Ethernet ou Wifi) po
 
 Au moment de l'encapsulation d'un paquet IP, l'ordinateur "émetteur" va utiliser un protocole nommé ARP (Address Resolution Protocol) qui va permettre de déterminer l'adresse MAC de l'ordinateur "destination", en effectuant une requête "broadcast" (requête destinée à tous les ordinateurs du réseau) du type : "j'aimerais connaitre l'adresse MAC de l'ordinateur ayant pour IP XXX.XXX.XXX.XXX". Une fois qu'il a obtenu une réponse à cette requête ARP, l'ordinateur "émetteur" encapsule le paquet IP dans une trame Ethernet et envoie cette trame sur le réseau. 
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_8.jpg)
+![](/Reseau/IMG/reseau_8.jpg)
 
 Enfin cette trame Ethernet est envoyée à l’ordinateur B par la carte réseau.
 
@@ -62,7 +62,7 @@ Enfin cette trame Ethernet est envoyée à l’ordinateur B par la carte réseau
 
 La carte réseau reçoit la trame Ethernet, vérifie qu’elle est bien destinataire de la trame et la dés-encapsule :
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_9.jpg)
+![](/Reseau/IMG/reseau_9.jpg)
 
 Elle envoie le résultat à la couche Internet
 
@@ -70,13 +70,13 @@ Elle envoie le résultat à la couche Internet
 
 La couche internet vérifie l’adresse IP de destination, dés-encapsule et envoie le résultat à la couche transport :
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_10.jpg)
+![](/Reseau/IMG/reseau_10.jpg)
 
 **Transport B**
 
 La couche transport vérifie que tout est correct puis les données sont envoyées à la bonne application :
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_11.jpg)
+![](/Reseau/IMG/reseau_11.jpg)
 
 
 
@@ -104,7 +104,7 @@ IP peut fragmenter les données qu’il reçoit de la couche transport si elles 
 
 Les paquets peuvent ne pas arriver dans le bon ordre à cause du routage, ils sont donc numérotés. Ce phénomène est illustré sur la page suivante.
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_12.jpg)
+![](/Reseau/IMG/reseau_12.jpg)
 
 
 
@@ -129,7 +129,7 @@ En effet, à chaque phase d'encapsulation on associe ce que l'on appelle une cou
 
 On présente souvent ces différentes couches sur ce type de schéma : 
 
- ![](D:\DISQUE ESSB\lycee\NSI\reseau\couche_1.jpg)
+ ![](/Reseau/IMG/couche_1.jpg)
 
 La couche du "dessous" encapsule la couche située "au dessus" 
 
@@ -139,7 +139,7 @@ On nomme ce système de couche "modèle de couches TCP/IP" (car ce modèle repos
 
 Il existe un autre modèle de couche, le modèle OSI (Open Systems Interconnection), ce système est antérieur au modèle TCP/IP puisqu'il date des années 1970. Ce modèle est principalement théorique et à permis de poser les bases des communications réseau. Ce modèle est composé de 7 couches (alors que le modèle TCP/IP est composé de 4 couches). 
 
- ![](D:\DISQUE ESSB\lycee\NSI\reseau\couche_2.jpg)
+ ![](/Reseau/IMG/couche_2.jpg)
 
 Il existe des liens entre le modèle OSI et le modèle TCP/IP (par exemple on retrouve le protocole IP dans la couche 3 du modèle OSI et TCP dans la couche 4), mais parfois comparer les 2 modèles peut être délicat. 
 
