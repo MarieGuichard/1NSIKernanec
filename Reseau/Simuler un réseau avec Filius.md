@@ -6,13 +6,13 @@ Le terme **réseau** en informatique signifie que au moins deux ordinateurs sont
 
 Pour relier deux ordinateurs il nous faut un câble Ethernet avec des prises RJ45 :
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_13.jpg)
+![](/Reseau/IMG/reseau_13.jpg)
 
 
 
 Et les ordinateurs doivent posséder une carte réseau :
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_14.jpg)
+![](/Reseau/IMG/reseau_14.jpg)
 
 ### Les adresses IP. 
 
@@ -105,14 +105,15 @@ Question 7: Combien de machines peut-on trouver au maximum dans les sous-réseau
 ### Filius. 
 
 Nous allons utiliser le logiciel **Filius** pour simuler des réseaux.
-
+Visionner la vidéo suivante avant de passer à la suite du TP. 
+[prise en main de Filius](https://youtu.be/HOPPr_tRyRg)
 
 
 **Premier réseau**
 
 Le réseau le plus simple est constitué de deux ordinateurs reliés par un câble :
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_15.jpg)
+![](/Reseau/IMG/reseau_15.jpg)
 
 Créez ce réseau dans Filius avec les propriétés suivantes :
 
@@ -132,7 +133,7 @@ Question 3: Quelle réponse obtenez vous ?
 
 Pour relier plusieurs ordinateurs nous avons besoin d’un appareil supplémentaire : un **switch**.
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_16.jpg)
+![](/Reseau/IMG/reseau_16.jpg)
 
 Un switch est en quelque sorte une « multiprise réseau ». On peut en utiliser beaucoup dans un réseau.
 
@@ -140,7 +141,7 @@ Un switch est en quelque sorte une « multiprise réseau ». On peut en utiliser
 
 Créez le réseau ci-dessous avec Filius :
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_17.jpg)
+![](/Reseau/IMG/reseau_17.jpg)
 
 
 
@@ -162,7 +163,7 @@ Question 8: Quelle est l’adresse du sous réseau de votre exemple dans Filius 
 
 Ajoutez un switch et trois ordinateurs à votre réseau existant pour obtenir le schéma suivant :
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_18.jpg)
+![](/Reseau/IMG/reseau_18.jpg)
 
 
 
@@ -192,13 +193,13 @@ Question 9:  Tester à nouveau la connexion entre les portables 1 et 6. Que cons
 
 Ce comportement est normal car pour faire communiquer deux sous-réseaux il faut un composant plus « intelligent » qu’un switch : un **routeur**.
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_19.jpg)
+![](/Reseau/IMG/reseau_19.jpg)
 
 Un routeur peut servir de passerelle entre deux sous-réseaux.
 
 Ajoutez un routeur et modifiez le câblage pour obtenir l’architecture suivante :
 
-![](D:\DISQUE ESSB\lycee\NSI\reseau\reseau_20.jpg)
+![](/Reseau/IMG/reseau_20.jpg)
 
 
 
