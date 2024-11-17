@@ -30,7 +30,7 @@ d = 01101001
 
 - donner le complément à 2 des deux nombres  et .
 - calculer la somme des compléments à 2 de  et .  
-- vérifier que la résultat trouvé est bien le complément à 2 de la somme de  et .  
+- vérifier que la résultat trouvé est bien le complément à 2 de la somme de a et b.  
 
 1.  a = 35 et b= 65
 2. a = -12 et b = 45 
