@@ -10,7 +10,7 @@ a. $\frac{1}{3}$		b. 3,625	c. $\frac{75}{16}$		d. $\frac{101}{8}$ 		e. 12,65625
 
 
 
-**Exercice 2 :** Le microcontrôleur de l'antimissile Patriot stocke la valeur  $\frac{1}{10}$en ne conservant que 23 bits pour la partie décimale. 
+**Exercice 2 :** Le microcontrôleur de l'antimissile Patriot stocke la valeur  $\frac{1}{10}$ en ne conservant que 23 bits pour la partie décimale. 
 
 1. Écrire $\frac{1}{10}$ en binaire, en conservant au moins 30 chiffres après la virgule.  
 2. Sachant que les registres du Patriot ne conservent que 23 bits après la virgule, quelle est, en base 10, la valeur codée effectivement à la place de $\frac{1}{10}$ ?  
