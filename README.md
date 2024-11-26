@@ -12,26 +12,25 @@ Progression
 11. Python:Les chaines de caractères.
 12. DonneesStructurees:Les Tuples
 13. DonneesStructurees: Les Listes
-14. Projet numéro 2: puissance 4
-15. Les booléens.
-16. L'architecture Von Neumann.
-17. Le réseau.
-18. Texte
-19. Dictionnaires.
-20. Projet numéro 3:
-21. Le web
-22. Interaction serveur-client.
-23. Les formulaires.
-24. Projet numéro 4:
-25. Parcours d'un tableau
-26. Diversité des langages de programmation.
-27. Spécification.
-28. Traitement des données en table.
-29. Projet numéro 5: la gestion d'une bibliothéque.
-30. Les systèmes d'exploitation.
-31. Tris
-32. Recherche dichotomique.
-33. IHM
-34. K-plus proche voisins.
-35. Algorithme glouton
-36. IHM
+14. Les booléens.
+15. L'architecture Von Neumann.
+16. Projet numéro 2: puissance 4
+19. Le réseau.
+20. Texte
+21. Dictionnaires.
+23. Le web
+24. Interaction serveur-client.
+25. Les formulaires.
+26. Projet numéro 3:
+27. Parcours d'un tableau
+28. Diversité des langages de programmation.
+29. Spécification.
+30. Traitement des données en table.
+31. Projet numéro 4: la gestion d'une bibliothéque.
+32. Les systèmes d'exploitation.
+33. Tris
+34. Recherche dichotomique.
+35. IHM
+36. K-plus proche voisins.
+37. Algorithme glouton
+38. IHM
