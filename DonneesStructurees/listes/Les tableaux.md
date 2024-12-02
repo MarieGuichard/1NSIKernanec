@@ -236,14 +236,17 @@ Prenons des exemples :
 **Exercice 1 :**
 
 ​	Soient les tableaux suivants :
+```python
 
 ​		T1 = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
-​		T2 = [‘Janvier’, ‘Février’, ‘Mars’, ‘Avril’, ‘Mai’, ‘Juin’, ‘Juillet’, ‘Aout’, ‘Septembre’, ‘Octobre’, ‘Novembre’, ‘Décembre’]
+​		T2 = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Aout", "Septembre", "Octobre", "Novembre", "Décembre"]
+``` 
 
 ​	Écrire un programme qui crée un nouveau tableau T3. Celui-ci devra contenir tous les éléments des deux listes en les alternant, de telle manière que 	chaque nom de mois soit suivi du nombre de jours correspondant :
-
-​	[‘Janvier’, 31, ‘Février’, 28, …]
+```python
+​	["Janvier", 31, "Février", 28, …]
+```
 
 
 
