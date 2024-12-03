@@ -264,7 +264,7 @@ Prenons des exemples :
 
 **Exercice 4 :**
 
-Écrire un programme qui retourne le plus grand élément présent dans une liste de nombres donnée (on n’utilisera ni la fonction `max()`, ni la fonction `sort()`)  et qui
+Écrire un programme qui retourne le plus grand élément présent dans une liste de nombres donnée (on n’utilisera ni la fonction `max()`, ni la fonction `sort()`). 
 
 
 
