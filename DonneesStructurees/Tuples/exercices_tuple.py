@@ -12,7 +12,14 @@ def produit(nombres,n):
     return rep 
 
 def tri_pair_impair(nombres):
-    pass
+    nb_pair=()
+    nb_impair=()
+    for i in range(len(nombres)):
+        if nombres[i]%2==0:
+            nb_pair = nb_pair + (nombres[i],)
+        else:
+            nb_impair=nb_impair+(nombres[i],)
+    return (nb_pair,nb_impair)
 
 def melange(tuple1,tuple2):
     pass
