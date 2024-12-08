@@ -1,0 +1,31 @@
+h1
+{
+        text-align: center;
+        background-color: #27ae60;
+}
+p
+{
+        font-family: Verdana;        
+        color: blue;
+}
+
+body{
+	background-color: #FFA07A;
+}
+
+.button {
+  background-color: red; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+}
+#prenom{
+  background-color: #27ae60; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+}

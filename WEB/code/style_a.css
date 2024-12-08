@@ -1,0 +1,18 @@
+h1
+{
+        text-align: center;
+        background-color: red;
+}
+p
+{
+        font-family: Verdana;        
+        color: blue;
+}
+.button {
+  background-color: red; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+}
