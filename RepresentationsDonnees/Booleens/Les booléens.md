@@ -94,7 +94,7 @@ Question 2: Qu'affiche le code suivant ?
 
 ```python
 note = 18
-note_extreme = note<15 or note>15
+note_extreme = note<5 or note>15
 print(note_extreme)
 ```
 
@@ -152,7 +152,7 @@ b. A or (B and not C)
 
 ​	
 
-| A     | A     | A and B | A or B |
+| A     | A     | A and A | A or A |
 | ----- | ----- | ------- | ------ |
 | True  | True  |         |        |
 | False | False |         |        |
