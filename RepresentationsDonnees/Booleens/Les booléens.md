@@ -95,7 +95,7 @@ Question 2: Qu'affiche le code suivant ?
 ```python
 note = 18
 note_extreme = note<15 or note>15
-print(not_extreme)
+print(note_extreme)
 ```
 
 #### II. Les lois de l'algèbre de Boole. 
