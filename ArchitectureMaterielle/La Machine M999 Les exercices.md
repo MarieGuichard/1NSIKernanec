@@ -78,7 +78,7 @@ Les registres sont désignés par les valeurs suivantes :
 
 ![](/ArchitectureMaterielle/IMG/M999_exple.jpg)
 
-En utilisant le tableau vu dans le cours, établir ce que fait le programme indiqué dans la machine M999.
+En utilisant le tableau vu précédemment, établir ce que fait le programme indiqué dans la machine M999.
 
 **Exercice 2:**
 
