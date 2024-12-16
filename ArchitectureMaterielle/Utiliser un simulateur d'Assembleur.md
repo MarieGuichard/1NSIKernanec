@@ -9,7 +9,7 @@ Une version en ligne de ce simulateur est disponible ici : http://www.peterhiggi
 
 Voici ce que vous devriez obtenir en vous rendant à l'adresse indiquée ci-dessus :
 
-![](D:\DISQUE ESSB\lycee\NSI\architectures matérielles\simulateur_assembleur.jpg)
+![](/ArchitectureMaterielle/IMG/simulateur_assembleur.jpg)
 
 Il est relativement facile de distinguer les différentes parties du simulateur :
 
