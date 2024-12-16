@@ -195,7 +195,7 @@ Toutes les opérations booléennes peuvent s'écrire en n'utilisant que les troi
 
 ##### 1. la fonction xor (ou exclusif).
 
-A xor B = (A and not B) and (not A and B)
+A xor B = (A and not B) or (not A and B)
 
 Compléter la table de vérité suivante de manière à obtenir A xor B dans 		la dernière colonne.  		
 
