@@ -6,7 +6,7 @@
 
 Exercice 1:  
 
-Visionner la vidéo suivante : https://pixees.fr/demonter-un-ordinateur/ , observer votre ordinateur et répondre aux questions suivantes. 
+Visionner la vidéo suivante : [https://pixees.fr/demonter-un-ordinateur/](https://www.youtube.com/watch?v=Fk2kYo2E61A) , observer votre ordinateur et répondre aux questions suivantes. 
 
 1. Quels sont les différents types de périphériques ? Citer des exemples ainsi que leurs utilités. 
 
