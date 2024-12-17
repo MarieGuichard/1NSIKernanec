@@ -198,5 +198,3 @@ Le principe de base est le suivant : une instruction est stockée dans une cellu
 
 
 
-
-Écrire un programme M999 de calcul du produit de deux entier (on ne dispose pas de l'opération de multiplication). 
