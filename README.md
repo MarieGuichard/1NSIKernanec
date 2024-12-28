@@ -20,7 +20,7 @@ Progression
 21. Dictionnaires.
 23. Le web
 24. Interaction serveur-client.
-25. Projet numéro 3:
+25. Projet numéro 3:projet site web (facultatif? )
 26. Diversité des langages de programmation.
 27. Spécification.
 28. Traitement des données en table.
