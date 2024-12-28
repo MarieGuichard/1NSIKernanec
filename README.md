@@ -21,7 +21,7 @@ Progression
 23. Le web
 24. Interaction serveur-client.
 25. Projet numéro 3:projet site web (facultatif? )
-26. Spécification.
+26. Spécification: aller sur Capytale en passant par l'ent. Le code de l'activité est 3c04-5121088
 27. Traitement des données en table.
 28. Projet numéro 4: la gestion d'une bibliothéque.
 29. Les systèmes d'exploitation.
