@@ -21,13 +21,12 @@ Progression
 23. Le web
 24. Interaction serveur-client.
 25. Projet numéro 3:projet site web (facultatif? )
-26. Diversité des langages de programmation.
-27. Spécification.
-28. Traitement des données en table.
-29. Projet numéro 4: la gestion d'une bibliothéque.
-30. Les systèmes d'exploitation.
-31. Tris
-32. Recherche dichotomique.
-33. K-plus proche voisins.
-34. Algorithme glouton
+26. Spécification.
+27. Traitement des données en table.
+28. Projet numéro 4: la gestion d'une bibliothéque.
+29. Les systèmes d'exploitation.
+30. Tris
+31. Recherche dichotomique.
+32. K-plus proche voisins.
+33. Algorithme glouton
 
