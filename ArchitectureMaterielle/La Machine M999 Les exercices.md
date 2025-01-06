@@ -84,7 +84,7 @@ En utilisant le tableau vu précédemment, établir ce que fait le programme ind
 
  Etablir ce que fait le programme indiqué dans la machine M999.
 
-![](/ArchitectureMaterielle/IMG/img.vn2.png)
+![](/ArchitectureMaterielle/IMG/img_vn2.png)
 
 **Exercice 3 :** 
 
