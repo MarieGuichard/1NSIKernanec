@@ -16,8 +16,8 @@ qui renverra une matrice de 6 lignes et de 7 colonnes ne contenant que des zéro
 Ecrire une fonction `affichage_plateau()` qui prend en paramétre le plateau de jeu et qui l’affiche. 
 Les 0 matérialisant les cases vides seront représentés par un espace, les 1 représentant les pions mis par le joueur 1 seront représentés par des X, et les 2 par des O. 
 
-![](/Projets/Puissance4/grille_de_jeu.jpg)
-![](/Projets/Puissance4/jeu_en_cours.jpg)
+![](/Puissance4/grille_de_jeu.jpg)
+![](Puissance4/jeu_en_cours.jpg)
 
 
 
@@ -61,7 +61,7 @@ Vous veillerez à ce que le joueur ne puisse donner qu’un numéro de colonne v
 
 Ecrire une fonction `mise_a_jour_plateau()` prenant en paramétres le coup choisi par le joueur, le numéro du joueur ainsi que le plateau courant. Cette fonction retournera le plateau modifié après le coup du joueur. 
 
-![[](/Projets/Puissance4/coup_joueur.jpg)
+![[](/Puissance4/coup_joueur.jpg)
 
 **Etape 10:** Le résultat du jeu.
 
