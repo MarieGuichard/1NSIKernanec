@@ -16,8 +16,8 @@ qui renverra une matrice de 6 lignes et de 7 colonnes ne contenant que des zéro
 Ecrire une fonction `affichage_plateau()` qui prend en paramétre le plateau de jeu et qui l’affiche. 
 Les 0 matérialisant les cases vides seront représentés par un espace, les 1 représentant les pions mis par le joueur 1 seront représentés par des X, et les 2 par des O. 
 
-![50% center](grille_de_jeu.jpg)
-![50% center](jeu_en_cours.jpg)
+![](grille_de_jeu.jpg)
+![](jeu_en_cours.jpg)
 
 
 
@@ -61,7 +61,7 @@ Vous veillerez à ce que le joueur ne puisse donner qu’un numéro de colonne v
 
 Ecrire une fonction `mise_a_jour_plateau()` prenant en paramétres le coup choisi par le joueur, le numéro du joueur ainsi que le plateau courant. Cette fonction retournera le plateau modifié après le coup du joueur. 
 
-![40% center](coup_joueur.jpg)
+![[](coup_joueur.jpg)
 
 **Etape 10:** Le résultat du jeu.
 
@@ -71,7 +71,7 @@ Ecrire une fonction resultat_jeu() qui prend en paramétre le plateau et qui ret
 
 Ecrire une fonction` afficher_gagnant()` qui prend en paramètre le joueur gagnant s’il existe et  0 sinon, et qui affiche soit le nom du gagnant, soit le “le match est nul” si c’est le cas. 
 
-![40% center](victoire.jpg)
+![](victoire.jpg)
 
 **Etape 12:** Jouons !
 
