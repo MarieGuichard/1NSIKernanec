@@ -61,7 +61,7 @@ Vous veillerez à ce que le joueur ne puisse donner qu’un numéro de colonne v
 
 Ecrire une fonction `mise_a_jour_plateau()` prenant en paramétres le coup choisi par le joueur, le numéro du joueur ainsi que le plateau courant. Cette fonction retournera le plateau modifié après le coup du joueur. 
 
-![[](/Projets/Puissance4/IMG/coup_joueur.JPG)
+![](/Projets/Puissance4/IMG/coup_joueur.JPG)
 
 **Etape 10:** Le résultat du jeu.
 
