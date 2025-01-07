@@ -16,8 +16,8 @@ qui renverra une matrice de 6 lignes et de 7 colonnes ne contenant que des zéro
 Ecrire une fonction `affichage_plateau()` qui prend en paramétre le plateau de jeu et qui l’affiche. 
 Les 0 matérialisant les cases vides seront représentés par un espace, les 1 représentant les pions mis par le joueur 1 seront représentés par des X, et les 2 par des O. 
 
-![](/Puissance4/grille_de_jeu.jpg)
-![](Puissance4/jeu_en_cours.jpg)
+![](/Projets/Puissance4/IMG/grille_de_jeu.jpg)
+![](/Projets/Puissance4/IMG/jeu_en_cours.jpg)
 
 
 
