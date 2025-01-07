@@ -9,7 +9,7 @@ Le joueur numéro 1 mettra des X dans la grille et le joueur 2 des O.
 Ecrire une fonction `installation_jeu()`
 qui renverra une matrice de 6 lignes et de 7 colonnes ne contenant que des zéros.  Pour cela, vous ferez une liste de liste. Cela simulera les 7 colonnes de 6 lignes de votre jeu de puissance 4. 
     
-![](/Puissance4/installation_jeu.JPG)
+![](/Puissance4/IMG/installation_jeu.JPG)
 
 **Etape2:** Affichage du plateau de jeu. 
 
