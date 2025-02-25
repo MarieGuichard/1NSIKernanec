@@ -46,7 +46,7 @@ Pour des raisons de simplicité et car l’IPv4 est toujours largement utilisé,
 
 Ping est une commande pour tester simplement le lien entre deux ordinateurs. Elle envoie plusieurs requêtes et donne les statistiques sur les réponses reçues. Le temps de réponse est la donnée la plus connue car il permet d’estimer la « rapidité » de votre connexion.
 
-Question 4: 
+Question 3: 
 
 a. Ouvrer sur votre ordinateur le terminal Tilix. 
 
@@ -72,7 +72,7 @@ Par contre 123.201.32.57/8 n’appartient pas au même sous réseau car 123 ≠ 
 
 
 
-Question 5: Déterminer les adresses des sous-réseaux des IP suivantes :
+Question 4: Déterminer les adresses des sous-réseaux des IP suivantes :
 
 \- 14.213.3.45/8
 
@@ -82,7 +82,7 @@ Question 5: Déterminer les adresses des sous-réseaux des IP suivantes :
 
 
 
-Question 6: Déterminer si les adresses suivantes appartiennent au même sous-réseau :
+Question 5: Déterminer si les adresses suivantes appartiennent au même sous-réseau :
 
 \- 172.23.4.7/16 et 172.23.5.8/16
 
@@ -92,7 +92,7 @@ Question 6: Déterminer si les adresses suivantes appartiennent au même sous-r�
 
 
 
-Question 7: Combien de machines peut-on trouver au maximum dans les sous-réseaux suivants ?
+Question 6: Combien de machines peut-on trouver au maximum dans les sous-réseaux suivants ?
 
 \- 192.168.2.0/24
 
@@ -125,7 +125,7 @@ Une fois votre réseau terminé, passez en mode simulation. En cliquant sur le p
 
 ```ping 192.168.1.2```
 
-Question 3: Quelle réponse obtenez vous ? 
+Question 7: Quelle réponse obtenez vous ? 
 
 **Deuxiéme réseau**
 
