@@ -73,7 +73,7 @@ En 1979, le département américain de la Défense a même nommé un nouveau lan
 
 ```
 
-Copier et coller le code ci-dessus dans Notepad++. Enregistrer le au format html, puis, dans l'explorateur de fichier, double cliquez sur le fichier, celui-ci doit s'ouvrir dans votre navigateur. 
+Copier et coller le code ci-dessus dans Geany. Enregistrer le au format html, puis, dans l'explorateur de fichier, double cliquez sur le fichier, celui-ci doit s'ouvrir dans votre navigateur. 
 
 
 
