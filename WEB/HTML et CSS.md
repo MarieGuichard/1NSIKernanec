@@ -14,7 +14,7 @@ Grâce au HTML vous allez pouvoir, dans votre navigateur (Firefox, Chrome, Opera
 
 HTML n'est pas un langage de programmation (comme le Python par exemple), ici, pas question de conditions, de boucles....c'est un langage de description. 
 
-Nous utiliserons Notepad++.
+Nous utiliserons Geany. 
 
 #### 1. Balises. 
 
