@@ -212,7 +212,7 @@ Exercice 1 : A faire dans le shell.
 Soit le dictionnaire suivant : 	
 
 ```python
-personne_1 = {'Nom':'Dupont','Prénom':'Sopie','Age': 16}
+personne_1 = {'Nom':'Dupont','Prénom':'Sopie','Age': 15}
 ```
 
 
