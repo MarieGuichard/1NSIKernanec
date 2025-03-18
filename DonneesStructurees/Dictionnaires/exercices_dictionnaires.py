@@ -5,7 +5,7 @@
 # def leplus(mag_A,mag_B):
 #     magasin={}
 #     #cle=mag_A.keys() # recupere toutes les clés du dictionnaire mag_A
-#     for elt in mag_A.keys(): # boucle sur les clés du dictionnaire mag_A
+#     for elt in cle: # boucle sur les clés du dictionnaire mag_A
 #         if mag_A[elt]>mag_B[elt]:
 #             magasin[elt]="mag_A"
 #         elif mag_A[elt]< mag_B[elt]:
