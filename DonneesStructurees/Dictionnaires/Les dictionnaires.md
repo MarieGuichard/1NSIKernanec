@@ -246,7 +246,7 @@ Exercice 3 : Soit les dictionnaires suivants :
 
 ```python
 eleve={"Nom":"Dupont","Prenom":"Jules","Age":17,"Classe":"1G4"}
-stagiaire={"Nom":Dupont,"Prenom":"Jules","Fonction":"Developpeur","Salaire":2500}
+stagiaire={"Nom":"Dupont","Prenom":"Jules","Fonction":"Developpeur","Salaire":2500}
 ```
 
 
