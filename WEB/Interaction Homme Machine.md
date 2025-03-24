@@ -45,6 +45,8 @@ Exercice 3:
 5. Ajouter une zone qui demande à l'utilisateur la couleur de fond qu'il souhaite et qui modifie la couleur. 
 6. Appelez votre enseignante pour qu'elle vérifie votre travail.
 
+Exercice 4: Créer un site web qui soit une calculatrice (4 opérations +,-,*,/). 
+
 
 
 
