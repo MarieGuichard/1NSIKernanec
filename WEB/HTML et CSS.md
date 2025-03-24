@@ -184,9 +184,6 @@ Copier et coller le code ci-dessus, enregistrer le à style.css dans le même do
 
 Rechargez la page web. Que constatez vous ? (Si vous ne constatez rien, appelez votre enseignante !). 
 
-Voici dans le détail ce qui est écrit:
-
-![](/WEB/IMG/css.jpg)
 
 Vous trouverez des propriétés utiles en css à l'adresse suivante: [css](https://www.cssdebutant.com/debuter-en-css-les-definitions-css/)
 
