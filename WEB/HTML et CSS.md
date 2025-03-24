@@ -186,7 +186,7 @@ Rechargez la page web. Que constatez vous ? (Si vous ne constatez rien, appelez 
 
 Voici dans le détail ce qui est écrit:
 
-![](F:\lycee\NSI\web\css.jpg)
+![](/WEB/IMG/css.jpg)
 
 Vous trouverez des propriétés utiles en css à l'adresse suivante: [css](https://www.cssdebutant.com/debuter-en-css-les-definitions-css/)
 
