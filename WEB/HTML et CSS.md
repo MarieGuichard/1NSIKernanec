@@ -200,7 +200,7 @@ Afin de personnaliser l'esthétique de chaque partie, il est possible d'utiliser
 ```css
 .titre
 { 
-font-size = 54 px;
+font-size : 54 px;
 }
 
 #para_1
