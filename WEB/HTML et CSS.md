@@ -101,7 +101,7 @@ Chaque balise a une signification qu'il faut bien respecter (on parle de la sém
 
 Par exemple le texte situé entre la balise ouvrante et fermante `<h1> </h1> `  est obligatoirement un titre important (il existe des balises `<h2>, <h3>` ......qui sont aussi des titres, mais des titres moins importants (sous-titre)).
 
- La balise <p> permet de définir des paragraphes, enfin, la balise <b> permet de mettre en évidence un élément important. 
+ La balise ` <p>`  permet de définir des paragraphes, enfin, la balise ` <b>`  permet de mettre en évidence un élément important. 
 
 Voici les principales :
 
