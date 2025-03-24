@@ -43,7 +43,9 @@ Exercice 3:
 3. Cliquer sur les boutons et identifier leurs actions. 
 4. Modifier le code javascript et html afin que l'utilisateur puisse saisir son nom de famille et qu'en appuyant sur le bouton Bonjour le message affiché soit Bonjour prenom Nom. 
 5. Ajouter une zone qui demande à l'utilisateur la couleur de fond qu'il souhaite et qui modifie la couleur. 
-6. Appelez votre enseignante pour qu'elle vérifie votre travail. 
+6. Appelez votre enseignante pour qu'elle vérifie votre travail.
+
+
 
 
 
