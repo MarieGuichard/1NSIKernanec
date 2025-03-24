@@ -83,19 +83,21 @@ En observant attentivement le code, vous devriez forcément remarquer que toute 
 
 Enfin pour terminer avec les généralités sur les balises, il est important de savoir qu'une structure du type : 
 
-<balise1>
+```<balise1>
 <balise2>
 </balise1>
 </balise2>
+```
 
 est interdite, la balise2 a été ouverte après la balise1, elle devra donc être refermée avant la balise1. 
 
 En revanche, l'enchaînement suivant est correct : 
-
+```
 <balise1>
 <balise2>
 </balise2>
 </balise1>
+```
 
 Chaque balise a une signification qu'il faut bien respecter (on parle de la sémantique des balises). 
 
