@@ -29,8 +29,9 @@ Exercice 2:
    -  le bouton Bonjour écrive Hello dans la zone de texte. 
    - le bouton Changer la couleur du titre change la taille de la police du titre. 
 
-5. Ajouter un bouton qui change la couleur de fond du titre dont l'id est "result"
-6. Appelez votre enseignante pour qu'elle vérifie votre travail. 
+5.Ajouter un titre dans votre page html, vous lui donnerez pour id "result". 
+6. Ajouter un bouton qui change la couleur de fond du titre dont l'id est "result"
+7. Appelez votre enseignante pour qu'elle vérifie votre travail. 
 
 Les **formulaires** sont un des vecteurs principaux d'interaction entre un utilisateur et un site web ou une application. Ils permettent à l'utilisateur d'envoyer des données au site web. La plupart du temps, ce données sont envoyées à des serveurs web, mais la page peut aussi les intercepter et les utiliser elle-même. 
 
