@@ -4,7 +4,7 @@ Depuis la classe de petite section en maternelle à cette année, nous avons dé
 
 ### I. D'où vient le mot *algorithme* ?
 
-![](E:\lycee\NSI\Algorithme\image_al_khwarizmi.jpg)
+![](/Algorithme/IMG/image_al_khwarizmi.jpg)
 
 Le mot *algorithme* vient du nom du mathématicien persan Al-Khwarizmi, né vers 780 et mort à Bagdad vers 850. 
 
@@ -42,7 +42,7 @@ L'action "Peser 100 g de farine" peut être considérée comme une "opération �
 
 On pourrait donc résumer ce qu'est un algorithme par le schéma suivant :
 
-![](E:\lycee\NSI\Algorithme\schéma_algo_1.jpg)
+![](/Algorithme/IMG/schéma_algo_1.jpg)
 
  Donald Knuth a énoncé quelques régles dans un ouvrage monumental, The Art of Computer Programming, dont l'écriture a commencé en 1962 et la publication du premier volume date de 1968. L'ouvrage commence par un algorithme décrivant la manière de lire le premier volume de cet ensemble puis de lire les différents volumes ! 
 
@@ -60,11 +60,11 @@ Prenons un exemple concret :
 
 Nous allons étudier cette année, ainsi que l'année prochaine, des algorithmes de tri pour les tableaux (un tableau ressemble beaucoup à une liste en Python, même si ce n'est pas exactement la même chose). Nous avons en entrée un tableau non trié et nous obtenons en sortie un tableau trié : 
 
-![](E:\lycee\NSI\Algorithme\schéma_algo_tri1.jpg)
+![](/Algorithme/IMG/schéma_algo_tri1.jpg)
 
 La "valeur de sortie" n'est pas obligatoirement du même type que la "valeur d'entrée". Prenons l'exemple d'un algorithme qui prend en entrée un tableau t d'entiers et un entier x, et qui "répond" par "oui" ou par "non" à la question "x est-il présent dans le tableau t ?". Dans ce cas, la "valeur de sortie" sera "oui" ou "non". 
 
-![](E:\lycee\NSI\Algorithme\schéma_algo_tri2.jpg)
+![](/Algorithme/IMG/schéma_algo_tri2.jpg)
 
 Voici l'algorithme permettant de répondre au problème suivant :
 
