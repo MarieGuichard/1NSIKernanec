@@ -12,7 +12,7 @@ Exemple 1 : Donner au moins trois exemples d'algorithme que nous utilisons dans 
 
 ##### 2. D'où vient le mot *algorithme* ?
 
-![](E:\lycee\NSI\Algorithme\image_al_khwarizmi.jpg)
+![](/Algorithme/IMG/image_al_khwarizmi.jpg)
 
 Le mot *algorithme* vient du nom du mathématicien persan Al-Khwarizmi, né vers 780 et mort à Bagdad vers 850. 
 
