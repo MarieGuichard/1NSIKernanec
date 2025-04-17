@@ -374,9 +374,9 @@ Il s'agit de pouvoir comparer l'efficacité d'algorithmes résolvant le même pr
 
 Exercice 6 : 
 
-1. Exécutez le fichier python vitesse moyenne-max.
+1. Exécutez le fichier python vitesse. 
 2. Qu'affiche ce programme ?  		
-3. Que pouvez vous en déduire pour les fonctions moyenne et max ?  		
+3. Que pouvez vous en déduire pour les fonctions somme et double_somme ?  		
 4. Écrire une fonction element_in_tab qui prend en paramètre un tableau et un nombre, et qui renvoie True si le nombre est dans le tableau et False sinon.  		
 5. Afficher la courbe de temps d'exécution de cette fonction.  		
 6. Que constatez vous ? 					
