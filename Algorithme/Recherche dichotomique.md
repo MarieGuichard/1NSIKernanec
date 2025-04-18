@@ -319,7 +319,7 @@ A ce stade il est nécessaire d'introduire une nouvelle notion mathématique : l
 
 Nous avons donc : 
 
-$ \frac{n}{2^a}=1$ => $ n=2^a $ => $ log_2(n)=log_2(2^a)=a$. 
+$\frac{n}{2^a}=1$ => $ n=2^a $ => $ log_2(n)=log_2(2^a)=a$. 
 
 Par conséquent, $a =log_2(n)$ 
 
