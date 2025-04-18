@@ -254,11 +254,11 @@ On peut résumer le principe de fonctionnement de l'algorithme de recherche dich
 
 Il est aussi possible de représenter le principe de l'algorithme de recherche dichotomique avec le schéma suivant :
 
-![](E:\lycee\NSI\Algorithme\dichotomie_image1.jpg)
+![](/Algorithme/IMG/dichotomie_image1.jpg)
 
 L'idée est donc de définir le milieu du tableau (variable "mil") et de couper le tableau 	en 2, on se retrouve avec 2 tableaux. On garde uniquement le tableau qui peut contenir la 	valeur recherchée. On recommence le processus jusqu'au moment où l'on "tombe" sur la 	valeur recherchée ou que l'on se retrouve avec un tableau contenant un seul élément : si 	l'élément unique du tableau n'est pas l'élément recherché, l'algorithme renvoie FAUX. 
 
-![](E:\lycee\NSI\Algorithme\dichotomie_image2.jpg)
+![](/Algorithme/IMG/dichotomie_image2.jpg)
 
 Exercice 1: Représentez le principe de fonctionnement de l'algorithme en utilisant le schéma 2 dans les deux cas suivants :
 
@@ -327,6 +327,6 @@ Nous pouvons donc dire que la complexité en temps dans le pire des cas de l'alg
 
 Afin de pouvoir comparer l'efficacité des différents algorithmes, voici une représentation graphique des fonctions  (en rouge),  (en bleu) et  (en vert). 
 
-![](E:\lycee\NSI\Algorithme\dichotomie_image3.jpg)
+![](/Algorithme/IMG/dichotomie_image3.jpg)
 
 Comme vous pouvez le constater l'algorithme de recherche dichotomique est plus efficace que l'algorithme de recherche qui consiste à parcourir l'ensemble du tableau, car $x>log_2(x)$  quelque soit $x$. Cependant, il ne faut pas perdre de vu que dans le cas de la recherche dichotomique, il est nécessaire d'avoir un tableau trié, si au départ le tableau n'est pas trié, il faut rajouter la durée du tri. 
