@@ -94,7 +94,7 @@ Prenons le pire des cas : un tableau rangé dans l'ordre décroissant et compton
 
 Soit t=[5,4,3,2,1]
 
-![](E:\lycee\NSI\Algorithme\complexite_tris_insertion.jpg)
+![](/Algorithme/IMG/complexite_tris_insertion.jpg)
 
 
 
@@ -122,9 +122,9 @@ Soit un total de 1+2+....n-1 déplacements.
 
 Ceux qui suivent la spé maths reconnaissent une somme qu'ils ont vu dans le cours sur les 	suites arithmétiques, pour les autres, voici la formule :
 
-$ 1+2+...+ n-1 = \frac {n(n-1)}{2}=\frac{n^2}{2}-\frac{n}{2}$
+$1+2+...+ n-1 = \frac {n(n-1)}{2}=\frac{n^2}{2}-\frac{n}{2}$
 
-Nous pouvons donc dire que la complexité de l'algorithme de tri par insertion est en $ O(n^2) $. 
+Nous pouvons donc dire que la complexité de l'algorithme de tri par insertion est en $O(n^2) $. 
 
 #### II. Le tri par sélection.
 
