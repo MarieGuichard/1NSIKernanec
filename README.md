@@ -21,7 +21,7 @@ Progression
 23. Le web
 24. Interaction serveur-client.
 25. Projet numéro 3:Création d'une calculatrice en ligne.
-26. 29. Les systèmes d'exploitation.
+26. Les systèmes d'exploitation.
 27. Spécification: aller sur Capytale en passant par l'ent. Le code de l'activité est 3c04-5121088
 28. Traitement des données en table.
 29. Projet numéro 4: la gestion d'une bibliothéque.
