@@ -112,7 +112,7 @@ Afficher S
 
 ​	
 
-Exercice 2 : 
+Exercice 4: 
 
 ​	On considère l'algorithme suivant :
 
