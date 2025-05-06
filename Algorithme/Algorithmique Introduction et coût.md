@@ -6,7 +6,7 @@
 
 Nous prendrons pour définition d'algorithme la définition suivante : 
 
-**Algorithme :nom masculin, ensemble de règles opératoires dont l'application permet de 	résoudre un problème énoncé au moyen d'un nombre fini d'opérations élémentaires . ** 
+** Algorithme :nom masculin, ensemble de règles opératoires dont l'application permet de 	résoudre un problème énoncé au moyen d'un nombre fini d'opérations élémentaires . ** 
 
 Exemple 1 : Donner au moins trois exemples d'algorithme que nous utilisons dans la vie 	quotidienne.
 
