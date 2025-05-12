@@ -234,7 +234,7 @@ afficher p
 
 
 
-**Définition : On appelle variant d'une boucle une expression dont la valeur varie à chacune 	des itération de la boucle. **	
+** Définition : On appelle variant d'une boucle une expression dont la valeur varie à chacune 	des itération de la boucle. **	
 
 
 
