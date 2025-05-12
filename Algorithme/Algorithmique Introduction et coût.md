@@ -400,11 +400,11 @@ Voici un algorithme qui prend en entrée un nombre entier t représentant un nom
 ```
 Saisir t
 
-h ← n // 3600
+h ← t // 3600
 
-m ← (n-3600*h)//60
+m ← (t-3600*h)//60
 
-s = n%60
+s = t%60
 
 afficher h,m,s
 ```
