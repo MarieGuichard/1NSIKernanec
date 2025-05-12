@@ -220,7 +220,7 @@ afficher p
 
 2. Que renvoie cet algorithme ?  		
 
-3. L'objectif de cette question est de montrer que $p=m \times b$ est un invariant de la boucle Tant que.  		
+3. L'objectif de cette question est de montrer que $ p=m \times b $ est un invariant de la boucle Tant que.  		
 
    a. Vérifier que  $p=m\times b$est vrai avant le premier passage dans la boucle.  		
 
