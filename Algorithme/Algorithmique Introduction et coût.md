@@ -320,7 +320,7 @@ Renvoyer Vrai
 
 
 
-Exercice 5 : On considère l'algorithme suivant qui permet de calculer le quotient et le reste de la division euclidienne d’un entier positif par un entier strictement positif : 
+Exercice 7 : On considère l'algorithme suivant qui permet de calculer le quotient et le reste de la division euclidienne d’un entier positif par un entier strictement positif : 
 
 ​	
 
@@ -372,7 +372,7 @@ Il s'agit de pouvoir comparer l'efficacité d'algorithmes résolvant le même pr
 
 
 
-Exercice 6 : 
+Exercice 8 : 
 
 1. Exécutez le fichier python vitesse. 
 2. Qu'affiche ce programme ?  		
@@ -391,7 +391,7 @@ Le principe est simple : il s'agit de compter chaque opération faite dans un al
 
 Afin de ne pas fausser la réponse trouvée, nous essayons de nous placer dans le pire des cas.
 
-Exercice 7 : 
+Exercice 9 : 
 
 Voici un algorithme qui prend en entrée un nombre entier t représentant un nombre de secondes et qui le convertit en un temps en heure, minute, seconde. 
 
@@ -419,7 +419,7 @@ afficher h,m,s
 
 
 
-Exercice 8 : L'algorithme suivant indique si une année est bissextile ou non en renvoyant un Vrai ou Faux. 
+Exercice 10 : L'algorithme suivant indique si une année est bissextile ou non en renvoyant un Vrai ou Faux. 
 
 ​	
 
@@ -474,7 +474,7 @@ Notation : Lorsque la complexité d'un algorithme est linéaire, on la note $O(1
 
 
 
-Exercice 9:
+Exercice 11:
 
 Cet algorithme calcule la somme des n premiers entiers. 
 
@@ -509,7 +509,7 @@ afficher somme
 
 
 
-​	Exemple 4 : Un réseau social contient n membres. L'entreprise gérant ce réseau stocke dans 	un tableau noté tab de taille , le nombre de messages envoyés entre chacun des 	membres du réseau. La case tab[i][j] comptabilise le nombre de messages envoyés du 	membre référencé par le numéro i vers le membre référencé par le numéro j. 
+​	Exemple 12 : Un réseau social contient n membres. L'entreprise gérant ce réseau stocke dans 	un tableau noté tab de taille , le nombre de messages envoyés entre chacun des 	membres du réseau. La case tab[i][j] comptabilise le nombre de messages envoyés du 	membre référencé par le numéro i vers le membre référencé par le numéro j. 
 
 ​	L'entreprise veut connaître le nombre de messages déjà envoyés sur son réseau social en utilisant les données de son tableau. 
 
