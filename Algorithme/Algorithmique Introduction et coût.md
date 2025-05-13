@@ -505,7 +505,7 @@ afficher somme
 
 
 
-​	Notation : Lorsque la complexité d'un algorithme est linéaire, on la note 	
+​	Notation : Lorsque la complexité d'un algorithme est linéaire, on la note $O(n)$.
 
 
 
@@ -514,7 +514,7 @@ afficher somme
 ​	L'entreprise veut connaître le nombre de messages déjà envoyés sur son réseau social en utilisant les données de son tableau. 
 
 ​	Voici l'algorithme proposé.
-
+```
 ​	Saisir tab
 
 ​	somme ← 0
@@ -531,25 +531,25 @@ afficher somme
 
 ​	Afficher somme. 
 
+```
 
+1. Pour une valeur de i fixée, déterminer le coût des deux lignes suivantes, en admettant que le coût d’accès à tab[i][j] est de 1.
 
-1. Pour une valeur de i 		fixée, déterminer le coût des deux lignes suivantes, en 		admettant que le coût d’accès à tab[i][j] est de 1.
+   Pour j allant de 1 à n :
 
-   1. Pour j allant de 1 à 						n :
+   ​somme ← somme + tab[i][j]
 
-   ​			somme ← somme + 		tab[i][j]
-
-2. Déterminer la 		complexité de cet algorithme sachant que le nombre de membres est 		n.  		
+2. Déterminer la complexité de cet algorithme sachant que le nombre de membres est $n$.  		
 
 
 
 ​	
 
-​	Définition : Soit n la taille d'une donnée, si le nombre d'opérations à effectuer dans le pire 	des cas est de la forme  où a, b et c sont des nombres réels, , on dit que la 	complexité de cet algorithme est quadratique. 
+​Définition : Soit n la taille d'une donnée, si le nombre d'opérations à effectuer dans le pire 	des cas est de la forme  $a\times n^{2}+b\times n +c$où a, b et c sont des nombres réels, , on dit que la 	complexité de cet algorithme est quadratique. 
 
 
 
-​	Notation : Lorsque la complexité d'un algorithme est quadratique, on la note 	
+​	Notation : Lorsque la complexité d'un algorithme est quadratique, on la note $O(n^{2})$
 
 
 
