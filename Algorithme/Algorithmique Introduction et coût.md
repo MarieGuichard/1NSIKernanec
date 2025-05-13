@@ -545,7 +545,7 @@ afficher somme
 
 ​	
 
-​Définition : Soit n la taille d'une donnée, si le nombre d'opérations à effectuer dans le pire 	des cas est de la forme  $a\timesn^{2}+b\timesn+c$où a, b et c sont des nombres réels, , on dit que la 	complexité de cet algorithme est quadratique. 
+​Définition : Soit n la taille d'une donnée, si le nombre d'opérations à effectuer dans le pire 	des cas est de la forme  $a\times n^{2}+b\times n+c$où a, b et c sont des nombres réels, , on dit que la 	complexité de cet algorithme est quadratique. 
 
 
 
