@@ -501,7 +501,7 @@ afficher somme
 
 
 
-​	Définition : Soit n la taille d'une donnée, si le nombre d'opérations à effectuer dans le pire 	des cas est de la forme $ a\times n+b $ où a et b sont des nombres réels, , on dit que la 	complexité de cet algorithme est linéaire. 
+​	Définition : Soit n la taille d'une donnée, si le nombre d'opérations à effectuer dans le pire 	des cas est de la forme $a\times n+b$ où a et b sont des nombres réels, , on dit que la 	complexité de cet algorithme est linéaire. 
 
 
 
