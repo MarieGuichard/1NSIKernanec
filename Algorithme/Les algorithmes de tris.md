@@ -76,7 +76,7 @@ k: nombre entier
 DEBUT
 j <- 2
 Tant que j<= longueur(t): 
-    j <- j-1
+    i <- j-1
     k <- t[j]
     Tant que i>0 et t[i]>k:
        t[i+1] <- t[i]
