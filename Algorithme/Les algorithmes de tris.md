@@ -67,6 +67,26 @@ Demander au groupe voisin d'expérimenter cet algorithme  avec des jetons pour v
 Appeler votre professeur.
 
 ##### 4. Correction. 
+```
+VARIABLES:
+t: tableau d'entiers
+i: nombre entier
+j: nombre entier 
+k: nombre entier
+DEBUT
+j <- 2
+Tant que j<= longueur(t): 
+    j <- j-1
+    k <- t[j]
+    Tant que i>0 et t[i]>k:
+       t[i+1] <- t[i]
+       i <-i-1
+       Fin Tant que 
+    t[i+1] <-k
+    j <- j+1
+Fin Tant que 
+```
+
 
 
 
