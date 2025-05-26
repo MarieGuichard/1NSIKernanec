@@ -165,6 +165,27 @@ Demander 10 jetons à votre professeur et, en reproduisant la méthode vue dans 
 ##### 3.  Écrire un algorithme. 
 
 Écrire, en pseudo-code, un algorithme de tri par sélection. 
+```
+VARIABLE
+tab: tableau d'entiers
+i: nombre entier
+j: nombre entier
+min : nombre entier
+DEBUT
+i <- 1
+Tant que i< longueur(tab):
+     j <- i+1
+     min <- i
+     Tant que j<= longueur(tab):
+        Si tab[j] < tab[min]:
+            min <- j
+        j <- j+1
+     Fin Tant que
+     Si min != i:
+         échanger tab[i] et tab[min]
+     i <- i+1
+ Fin Tant que 
+ ```
 
 Demander au groupe voisin d'expérimenter cet algorithme  avec des jetons pour vérifier qu'il 	fonctionne correctement. 
 
