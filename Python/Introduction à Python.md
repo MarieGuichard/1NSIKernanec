@@ -123,7 +123,7 @@ c. Exécuter ce programme. Que se passe-t-il?
 
 d. Dans le Shell, ecrire l'instruction `message(5)`puis appuyer sur entrée. Que se passe-t-il? 
 
-e. Quelle instruction devez vous ecrire dans le shell pour que la phrase "La vie trouve toujours son chemin" soit affichée 10 fois. 
+e. Quelle instruction devez vous ecrire dans le shell pour que la phrase "La vie trouve toujours son chemin" soit affichée 10 fois? 
 
 f. De quel film célébre est issue cette phrase? 
 
