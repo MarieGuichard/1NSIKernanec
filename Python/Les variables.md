@@ -216,13 +216,13 @@ Dans un algorithme, il faut donner des valeurs aux variables. Il existe deux fa�
 
   Écrire un programme qui demande le prénom d'un utilisateur puis qui lui dit combien il y a de lettres dans son prénom.
 
-​	**Exercice 3:** 
+​   **Exercice 3:** 
 
-​	Écrire un programme qui demande 2 entiers A et B, puis renvoie le quotient et le reste de la 		   	division euclidienne de A par B en faisant une phrase. 
+​	Écrire un programme qui demande 2 entiers A et B, puis renvoie le quotient et le reste de la division euclidienne de A par B en faisant une phrase. 
 
 ​	**Exercice 4:**
 
-​	Écrire un programme qui demande un nombre entier `x`à l'utilisateur et qui lui affiche la valeur de 	   	3x²-4x+1. 
+​	Écrire un programme qui demande un nombre entier `x`à l'utilisateur et qui lui affiche la valeur de $3x²-4x+1$. 
 
 
 
