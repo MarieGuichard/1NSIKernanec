@@ -4,7 +4,7 @@
 
 L'objectif de ce projet est de créer un programme qui affiche aléatoirement la face d'un dé cubique, en changeant aléatoirement les couleurs des points.
 
-![](/Projets/de_aleatoire/img/image_de.jpg)
+<div align=center> ![](/Projets/de_aleatoire/img/image_de.jpg)</div>
 
 
 
@@ -69,5 +69,6 @@ while a<12:
 
 
 Exercice 3 : Écrire un programme permettant de tracer un triangle équilatéral. 
+
 
 
