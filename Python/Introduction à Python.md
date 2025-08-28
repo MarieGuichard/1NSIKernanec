@@ -12,11 +12,11 @@ Un langage de programmation est une notation conventionnelle destinée à formul
 
 ​	Les langages de programmation permettent de décrire d'une part les structures des données qui seront manipulées par l'appareil informatique, et d'autre part d'indiquer comment sont effectuées les manipulations, selon quels algorithmes. Ils servent de moyens de communication par lesquels le programmeur communique avec l'ordinateur, mais aussi avec d'autres programmeurs ; les programmes étant d'ordinaire écrits, lus, compris et modifiés par une équipe de programmeurs.  
 
-​	Un langage de programmation est mis en œuvre par un traducteur automatique : compilateur ou interpréteur.  Un compilateur est un programme informatique qui transforme dans un premier temps un code source écrit dans un langage de programmation donné en un code cible qui pourra être directement exécuté par un ordinateur, à savoir un programme en langage machine ou encode intermédiaire, tandis que l’interprète réalise cette traduction « à la volée ».
+​	Un langage de programmation est mis en œuvre par un traducteur automatique : compilateur ou interpréteur.  Un compilateur est un programme informatique qui transforme dans un premier temps un code source écrit dans un langage de programmation donné en un code cible qui pourra être directement exécuté par un ordinateur, à savoir un programme en langage machine ou encode intermédiaire, tandis que l’interprèteur réalise cette traduction « à la volée ».
 
 ### II. Quelles sont les particularités de Python ? 
 
-Python est un langage de programmation, multi-paradigme et multiplateforme. Il favorise la favorise la programmation impérative, fonctionnelle et orientée objet. Il est doté d'un typage dynamique fort, d'une gestion automatique de la mémoire et d'un systéme de gestion d'exceptions. 
+Python est un langage de programmation, multi-paradigme et multiplateforme. Il favorise la programmation impérative, fonctionnelle et orientée objet. Il est doté d'un typage dynamique fort, d'une gestion automatique de la mémoire et d'un systéme de gestion d'exceptions. 
 
 Le langage Python est placé sous une licence libre et fonctionne sur la plupart des plates-formes informatiques, des smartphones aux ordinateurs, de Windows à Unix avec notamment GNU/Linux en passant par macOs, ou encore Android. Il est conçu pour optimiser la productivité des programmeurs en offrant des outils de haut niveau et une syntaxe simple à utiliser. 
 
@@ -126,4 +126,5 @@ d. Dans le Shell, ecrire l'instruction `message(5)`puis appuyer sur entrée. Que
 e. Quelle instruction devez vous ecrire dans le shell pour que la phrase "La vie trouve toujours son chemin" soit affichée 10 fois? 
 
 f. De quel film célébre est issue cette phrase? 
+
 
