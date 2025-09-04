@@ -1,5 +1,5 @@
 Progression
-1. Séance https://py-rates.fr/
+1. Séance https://py-rates.org/
 2. Introduction à python et utilisation de Thonny
 3. Python: les variables.
 4. Python: les conditionnelles
