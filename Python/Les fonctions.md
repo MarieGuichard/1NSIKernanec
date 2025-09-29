@@ -36,7 +36,7 @@ Question 1 :
 
 
 
-**Une fonction  est un programme qui porte un nom et utilise zéro, une ou plusieurs variables appelés paramètres. **
+**Une fonction  est un programme qui porte un nom et utilise zéro, une ou plusieurs variables appelés paramètres.**
 
 La syntaxe est la suivante : 
 
@@ -66,7 +66,7 @@ le nombre 15 est impair
 
 
 
-​	Question 2 : Combien la fonction `pair_ou_impair` a-t-elle d'argument ? 
+​	Question 2 : Combien la fonction `pair_ou_impair` a-t-elle de paramétres ? 
 
 
 
@@ -137,3 +137,4 @@ def somme_carres(a,b):
 
 
 ​	
+
