@@ -28,8 +28,8 @@ d = 01101001
 
 **Exercice 4 :** Pour chacune des questions suivantes, sur 8 bits :
 
-- donner le complément à 2 des deux nombres  et .
-- calculer la somme des compléments à 2 de  et .  
+- donner le complément à 2 des deux nombres a et b. 
+- calculer la somme des compléments à 2 de a et b .  
 - vérifier que la résultat trouvé est bien le complément à 2 de la somme de a et b.  
 
 1.  a = 35 et b= 65
@@ -39,6 +39,7 @@ d = 01101001
 
 
 
-**Exercice 5:**  Écrire une fonction qui prend en paramètres un entier relatif  exprimé en base 10 et un entier naturel non nul  et renvoie le codage de  sur  bits. Le résultat renvoyé est de type str. 
+**Exercice 5:**  Écrire une fonction qui prend en paramètres un entier relatif  exprimé en base 10   et renvoie le codage de ce nombre  en bnaire . Le résultat renvoyé est de type str. 
 
-On supposera que le nombre  peut être codé sur  bits. 
+On supposera que le nombre  peut être codé sur 8  bits. 
+
