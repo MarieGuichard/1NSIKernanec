@@ -8,25 +8,25 @@ Progression
 7. Python: Les Fonctions
 8. Projet numéro 1: construction d'une maison.
 9. ReprésentationDonnees: Le binaire
-10.  ReprésentationDonnees:Les Flottants.
-11. Python:Les chaines de caractères.
-12. DonneesStructurees:Les Tuples
+10. Python:Les chaines de caractères.
+11. DonneesStructurees:Les Tuples
+12. ReprésentationDonnees:Les Flottants.
 13. DonneesStructurees: Les Listes
 14. Les booléens.
 15. L'architecture Von Neumann.
 16. Projet numéro 2: puissance 4
-19. Le réseau.
-20. Texte
-21. Dictionnaires.
-23. Le web
-24. Interaction serveur-client.
-25. Projet numéro 3:Création d'une calculatrice en ligne.
-26. Les systèmes d'exploitation.
-27. Spécification: aller sur Capytale en passant par l'ent. Le code de l'activité est 3c04-5121088
-28. Traitement des données en table.
-29. Projet numéro 4: la gestion d'une bibliothéque.
-30. Tris
-31. Recherche dichotomique.
-32. K-plus proche voisins.
+17. Le réseau.
+18. Texte
+19. Dictionnaires.
+20. Le web
+21. Interaction serveur-client.
+22. Projet numéro 3:Création d'une calculatrice en ligne.
+23. Les systèmes d'exploitation.
+24. Spécification: aller sur Capytale en passant par l'ent. Le code de l'activité est 3c04-5121088
+25. Traitement des données en table.
+26. Projet numéro 4: la gestion d'une bibliothéque.
+27. Tris
+28. Recherche dichotomique.
+29. K-plus proche voisins.
 33. Algorithme glouton
 
