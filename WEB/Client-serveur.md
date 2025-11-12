@@ -63,7 +63,7 @@ Il n’est pas nécessairement puissant : votre téléphone peut être un serveu
 
 Il existe des ordinateurs spécialement conçus pour être des serveurs avec beaucoup (beaucoup) de mémoire et beaucoup de processeurs. Ces serveurs sont en général situés dans des datacenters, des bâtiments spéciaux climatisés avec une très bonne connexion internet :
 
-![](E:\lycee\NSI\web\image_serveur.jpg)
+![](/WEB/IMG/image_serveur.jpg)
 
 
 
@@ -140,4 +140,5 @@ D'un point vu strictement pratique il est nécessaire de bien vérifier que le p
 ```
 
 ```
+
 
