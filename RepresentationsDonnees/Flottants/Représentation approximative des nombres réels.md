@@ -6,7 +6,7 @@ Nous savons représenter en machine un nombre entier si ce nombre est compris en
 
  Qu'en est-il pour un nombre réel quelconque ? Ces nombres sont de différents types : entier comme 3, décimal comme -8,75 ou 0,2, rationnel comme $\frac{1}{3}$ ou ${\frac{3}{4}}$ ou  irrationnel comme $\pi$ ou $\sqrt{7}$
 
-Nous savons qu'une donnée, quelle qu’elle soit, sera représentée sous forme binaire au sein de la machine et ceux sur un nombre fini d'octets. De ce fait, tous les nombres réels ne pourront pas être représentés (ben oui, il en existe quand même une infinité...). Nous utiliserons donc une représentation approximative des nombres réels pour un certain nombre d'entre eux. 
+Nous savons qu'une donnée, quelle qu’elle soit, sera représentée sous forme binaire au sein de la machine et cela sur un nombre fini d'octets. De ce fait, tous les nombres réels ne pourront pas être représentés (ben oui, il en existe quand même une infinité...). Nous utiliserons donc une représentation approximative des nombres réels pour un certain nombre d'entre eux. 
 
 En informatique, nous ne parlons donc pas de nombre réel mais de nombre flottant. 
 
@@ -156,3 +156,4 @@ Voici deux exemples de désastres causés par une mauvaise gestion des erreurs d
 
 
 ​		
+
