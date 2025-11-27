@@ -6,7 +6,10 @@ def combien(liste, element):
     return rep     
 
 def produit(nombres,n):
-    pass
+    rep = ()
+    for i in range(len(nombres)):
+        rep = rep + (nombres[i]*n,)
+    return rep
 
 def tri_pair_impair(nombres):
     pair = ()
