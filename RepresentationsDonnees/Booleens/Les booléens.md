@@ -33,8 +33,8 @@ Nous avons la table de vérité suivante :
 
 | A     | not A |
 | ----- | ----- |
-| True  |       |
-| False |       |
+| True  |  False     |
+| False |  True     |
 
 
 
@@ -271,6 +271,7 @@ Nous allons construire le circuit logique qui correspond à l'addition en binair
 ​	S =  	
 
 3. Construire le circuit logique permettant d'obtenir R et S.
+
 
 
 
