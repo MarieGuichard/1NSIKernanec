@@ -1,5 +1,9 @@
 def combien(liste, element):
-    pass       
+    rep = 0
+    for i in range(len(liste)):
+        if element == liste[i]:
+            rep = rep +1
+    return rep     
 
 def produit(nombres,n):
     pass
