@@ -149,11 +149,12 @@ Voici deux exemples de désastres causés par une mauvaise gestion des erreurs d
 
 ​	     10101101100000000000000 représente la mantisse. En ajoutant le 1, on obtient le calcul 	      		       suivant : 
 
-​	     $1+2^{-1}+2^{-3}+2^ {-5}+2^{-8}+2^{-9}=1.6677734375$
+​	     $1+2^{-1}+2^{-3}+2^ {-5}+2^{-6}+2^{-8}+2^{-9}=1.6677734375$
 
-​	      Soit au final, le nombre décimal suivant : $-1.77734375\times2^7=-271.75$
+​	      Soit au final, le nombre décimal suivant : $-1.6677734375\times2^7=-214.75$
 
 
 
 ​		
+
 
