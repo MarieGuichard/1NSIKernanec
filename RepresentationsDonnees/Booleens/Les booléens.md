@@ -60,10 +60,10 @@ Nous avons la table de vérité suivante :
 
 | A     | B     | A and B |
 | ----- | ----- | ------- |
-| True  | True  |         |
-| True  | False |         |
-| False | True  |         |
-| False | False |         |
+| True  | True  | True        |
+| True  | False |     False    |
+| False | True  |  False       |
+| False | False |       False  |
 
 
 
@@ -85,10 +85,10 @@ Nous avons la table de vérité suivante :
 
 | A     | B     | A or B |
 | ----- | ----- | ------ |
-| True  | True  |        |
-| True  | False |        |
-| False | True  |        |
-| False | False |        |
+| True  | True  |  True      |
+| True  | False |      True  |
+| False | True  |    True    |
+| False | False |   False     |
 
 Question 2: Qu'affiche le code suivant ?  
 
@@ -271,6 +271,7 @@ Nous allons construire le circuit logique qui correspond à l'addition en binair
 ​	S =  	
 
 3. Construire le circuit logique permettant d'obtenir R et S.
+
 
 
 
