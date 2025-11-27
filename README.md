@@ -11,8 +11,8 @@ Progression
 10. Python:Les chaines de caractères.
 11. DonneesStructurees:Les Tuples
 12. ReprésentationDonnees:Les Flottants.
-13. DonneesStructurees: Les Listes
-14. Les booléens.
+13.Les booléens.
+14. DonneesStructurees: Les Listes
 15. L'architecture Von Neumann.
 16. Projet numéro 2: puissance 4
 17. Le réseau.
