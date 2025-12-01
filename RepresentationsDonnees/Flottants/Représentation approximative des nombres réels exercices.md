@@ -6,11 +6,11 @@
 
 a. $\frac{1}{3}$		b. 3,625	c. $\frac{75}{16}$		d. $\frac{101}{8}$ 		e. 12,65625
 
+**Exercice 2 :** représenter en décimale les nombres binaires suivants,
+a. 101,11    b. 111,111    c. 10001,001
 
 
-
-
-**Exercice 2 :** Le microcontrôleur de l'antimissile Patriot stocke la valeur  $\frac{1}{10}$ en ne conservant que 23 bits pour la partie décimale. 
+**Exercice 3 :** Le microcontrôleur de l'antimissile Patriot stocke la valeur  $\frac{1}{10}$ en ne conservant que 23 bits pour la partie décimale. 
 
 1. Écrire $\frac{1}{10}$ en binaire, en conservant au moins 30 chiffres après la virgule.  
 2. Sachant que les registres du Patriot ne conservent que 23 bits après la virgule, quelle est, en base 10, la valeur codée effectivement à la place de $\frac{1}{10}$ ?  
@@ -22,7 +22,7 @@ a. $\frac{1}{3}$		b. 3,625	c. $\frac{75}{16}$		d. $\frac{101}{8}$ 		e. 12,65625
 
 
 
-**Exercice 3:** Codage d'un flottant.
+**Exercice 4:** Codage d'un flottant.
 
 Écrire une fonction qui détermine et renvoie le codage d'un flottant en base dix. L'entrée en paramètre est de typle float et la sortie de type str. On utilise le codage sur 32 bits. 
 
@@ -49,3 +49,4 @@ Voici les différentes étapes :
 5. Calcul de la mantisse tronquée $x=x-1$ qui doit être écrite en binaire sur 23 bits et stockée dans une chaîne m. Pour cela, multiplier$x$  par 2 ; si $x>=1$ , ajouter '1' à m et retrancher 1 à , sinon, ajouter '0' à m ; reproduire ce schéma 23 fois.  
 
 6. La chaine s+e+m est renvoyée.  
+
