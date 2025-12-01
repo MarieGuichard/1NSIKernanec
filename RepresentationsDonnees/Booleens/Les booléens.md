@@ -110,23 +110,23 @@ a. not(A and not(B))
 
 | A     | B     | not B | A and not B | not (A and not(B)) |
 | ----- | ----- | ----- | ----------- | ------------------ |
-| True  | True  |       |             |                    |
-| True  | False |       |             |                    |
-| False | True  |       |             |                    |
-| False | False |       |             |                    |
+| True  | True  |   False    |  False           |  True                  |
+| True  | False |  True     |      True       |        False            |
+| False | True  |  False     |    False         |           True         |
+| False | False |    True   |        False    |                 True   |
 
 b. A or (B and not C)
 
 | A    | B    | C    | not C | B and not C | A or (B and not C) |
 | ---- | ---- | ---- | ----- | ----------- | ------------------ |
-|      |      |      |       |             |                    |
-|      |      |      |       |             |                    |
-|      |      |      |       |             |                    |
-|      |      |      |       |             |                    |
-|      |      |      |       |             |                    |
-|      |      |      |       |             |                    |
-|      |      |      |       |             |                    |
-|      |      |      |       |             |                    |
+| True     | True     |True      |    False   |   False  | True               |
+| False     | False     | False     |      True | False  |  False           |
+|  False    | True     | True     |  False     |   False |     False       |
+|    False  | False     |True      |      False |     False | False              |
+|    False  |  True    | False     |    True   |    True     |    True           |
+|    True  | True     | False     |    True   |             |  True                |
+|    True  |    False  | False     |     True  |             |      True           |
+|    True  |   False   |True      |  False     |             |     True       |
 
 ##### 2. Quelques propriétés.  
 
@@ -271,6 +271,7 @@ Nous allons construire le circuit logique qui correspond à l'addition en binair
 ​	S =  	
 
 3. Construire le circuit logique permettant d'obtenir R et S.
+
 
 
 
