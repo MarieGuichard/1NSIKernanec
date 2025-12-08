@@ -154,12 +154,12 @@ b. A or (B and not C)
 
 | A     | A     | A and A | A or A |
 | ----- | ----- | ------- | ------ |
-| True  | True  |         |        |
-| False | False |         |        |
+| True  | True  |  True       | True        |
+| False | False |      False   |    False    |
 
-​	A and A = 
+​	A and A = A
 
-​	A or A = 
+​	A or A = A
 
 
 
@@ -171,19 +171,19 @@ b. A or (B and not C)
 
 | A     | B     | A and B | not (A and B) |
 | ----- | ----- | ------- | ------------- |
-| True  | True  |         |               |
-| True  | False |         |               |
-| False | True  |         |               |
-| False | False |         |               |
+| True  | True  |   True      | False              |
+| True  | False |       False  |     True          |
+| False | True  |  False       |         True      |
+| False | False |       False  |             True  |
 
 | A     | B     | not A | not B | not A or not B |
 | ----- | ----- | ----- | ----- | -------------- |
-| True  | True  |       |       |                |
-| True  | False |       |       |                |
-| False | True  |       |       |                |
-| False | False |       |       |                |
+| True  | True  |  False     |False       |        False        |
+| True  | False |   False    |     True  |        True        |
+| False | True  |    True   |    False   |            True    |
+| False | False |   True    |     True  |       True         |
 
-Conclusion:
+Conclusion: not (A and B) = not A or not B
  
 
 
@@ -201,12 +201,12 @@ Compléter la table de vérité suivante de manière à obtenir A xor B dans 		l
 
 Que fait la fonction xor ?  		
 
-| A     | B     |      |      |      |      |      |
+| A     | B     |    not A  | not B     | A and not B     | not A and B     |  A xor B    |
 | ----- | ----- | ---- | ---- | ---- | ---- | ---- |
-| True  | True  |      |      |      |      |      |
-| True  | False |      |      |      |      |      |
-| False | True  |      |      |      |      |      |
-| False | False |      |      |      |      |      |
+| True  | True  | False     | False     | False     |False      | False     |
+| True  | False |     False |    True  |   True   |    False  |  True    |
+| False | True  |    True  |   False   |   False   |   True   |    True  |
+| False | False |   True   |   True   |   False   |  False    |   False   |
 
 ​	
 
@@ -271,6 +271,7 @@ Nous allons construire le circuit logique qui correspond à l'addition en binair
 ​	S =  	
 
 3. Construire le circuit logique permettant d'obtenir R et S.
+
 
 
 
