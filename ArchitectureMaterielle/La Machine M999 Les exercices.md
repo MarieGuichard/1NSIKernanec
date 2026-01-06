@@ -80,13 +80,7 @@ Les registres sont désignés par les valeurs suivantes :
 
 En utilisant le tableau vu précédemment, établir ce que fait le programme indiqué dans la machine M999.
 
-**Exercice 2:**
-
- Etablir ce que fait le programme indiqué dans la machine M999.
-
-![](/ArchitectureMaterielle/IMG/img_vn2.png)
-
-**Exercice 3 :** 
+**Exercice 2 :** 
 
 a. Écrire un programme M999 qui affiche le minimum de 2 entiers saisis au clavier. 
 
@@ -94,6 +88,7 @@ b. Quelle modification doit-on apporter si on désire saisir 3 entiers ? N entie
 
 
 
-**Exercice 4 :**
+**Exercice 3 :**
 
  Écrire un programme M999 de calcul du produit de deux entier (on ne dispose pas de l'opération de multiplication). 
+
