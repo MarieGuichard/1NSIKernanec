@@ -23,6 +23,3 @@ def fusion(dico1,dico2):
     return reponse
 
 
-    return reponse
-
-print(fusion(eleve,stagiaire))
