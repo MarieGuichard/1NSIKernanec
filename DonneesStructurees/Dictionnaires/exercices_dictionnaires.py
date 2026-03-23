@@ -22,4 +22,13 @@ def fusion(dico1,dico2):
             reponse[cle] = dico2[cle]
     return reponse
 
+def occurences(texte):
+    resultat = {}
+    for i in range(len(texte)):
+        if ord(texte[i])>=65 and ord(texte[i])<=90:
+            if texte[i] in resultat.keys():
+                resultat[texte[i]] = resultat[texte[i]]+1 # resultat[texte[i]]+=1
+            else:
+                resultat[texte[i]] = 1
+    return resultat
 
