@@ -96,7 +96,7 @@ Question 3 :
 3. Quel le type de la variable musee ?
 4. Que se passe-t-il pour les descriptions des champs ?
 5. A quoi sert la fonction DictReader ?
-6. Pourquoi cette méthode ne semble-t-elle pas pertinente ?
+6. Pourquoi cette méthode semble-t-elle plus pertinente ?
 
 Bilan : Afin d'exploiter un fichier csv, il faut importer le module csv, ouvrir le document en veillant
 à spécifier newline= » » et utiliser la fonction DictReader de manière à ce que chaque entrée soit
