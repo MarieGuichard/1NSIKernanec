@@ -67,7 +67,7 @@ Demander au groupe voisin d'expérimenter cet algorithme  avec des jetons pour v
 Appeler votre professeur.
 
 ##### 4. Correction. 
-```
+
 
 
 
