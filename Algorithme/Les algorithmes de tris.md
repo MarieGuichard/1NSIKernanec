@@ -62,7 +62,7 @@ Demander 10 jetons à votre professeur et, en reproduisant la méthode vue dans 
 
 Écrire, en pseudo-code, un algorithme de tri par insertion. 
 
-'''
+```
 
 VARIABLES:
 t = tableau
@@ -81,7 +81,7 @@ Pour i < longeur(t):
        j=j-1
     i = i+1
     
-'''    
+```    
 
 Demander au groupe voisin d'expérimenter cet algorithme  avec des jetons pour vérifier qu'il 	fonctionne correctement. 
 
