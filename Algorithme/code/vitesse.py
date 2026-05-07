@@ -32,10 +32,16 @@ for i in range(1,1002,100):
 
 
 t=[]
+for i in range(1,1002,100):
+    a = timer()
+    maliste2=double_somme([ randint(0,100000) for k in range(i)])
+    b=timer()
+    t.append(b-a)
 
 
     
-plt.plot(x,y,":",color="red",lw=2,label="le_premier")
+plt.plot(x,z,":",color="blue",lw=2,label="somme")
+plt.plot(x,t,":",color="purple",lw=2,label="double_somme")
 
 
 
