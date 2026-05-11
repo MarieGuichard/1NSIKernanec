@@ -170,6 +170,25 @@ Demander 10 jetons à votre professeur et, en reproduisant la méthode vue dans 
 
 Écrire, en pseudo-code, un algorithme de tri par sélection. 
 ```
+VARIABLES
+t tableau d'entiers
+i un entier
+j un entier
+p un entier
+temp un entier
+
+PROGRAMME
+i = 0
+tant que i <= longueur du tableau -2:
+    p = t[i]
+    pour j allant de i+1 jusqu'à longueur du tableau - 1:
+        if t[j]<p:
+            temp = p
+            p = t[j]
+            t[j] = temp
+    t[i] = p
+    i = i +1  
+
 
  ```
 
