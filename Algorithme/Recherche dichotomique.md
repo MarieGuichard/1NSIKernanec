@@ -99,56 +99,7 @@ Visionnez la vidéo suivante : https://youtu.be/ULr_8ocz0AU
 
 
 ```
-VARIABLE
-
-t : tableau d'entiers trié 
-
-mil : nombre entier 	
-
-fin : nombre entier 
-
-deb : nombre entier 
-
-x : nombre entier // x : l'entier recherché 
-
-tr : booléen 	
-
-DEBUT
-
-tr ← FAUX 
-
-deb ← 1 	
-
-fin ← longueur(t) 	
-
-tant que tr == FAUX et que fin – deb ≥ 0 : 
-
-	mil ← partie_entière((deb+fin)/2) 
-
-	si t[mil] == x : 
-
-		tr = vrai 
-
-	sinon : 
-
-		si x > t[mil] :
-
-			 deb ← mil+1 
-
-		sinon : 
-
-			fin ← mil-1 
-
-		fin si 
-
-	fin si 
-
-fin tant que 
-
-renvoyer la valeur de tr 
-
-FIN
-
+A compléter
 
 ```
 
