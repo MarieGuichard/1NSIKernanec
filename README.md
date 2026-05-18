@@ -24,9 +24,9 @@ Progression
 23. Projet numéro 4: la gestion d'une bibliothéque.
 24. Tris
 25. Recherche dichotomique.
-26. K-plus proche voisins.
-27. Algorithme glouton
-28. 20. Le web
+26. Algorithme glouton
+27. K plus proches voisins
+28. Le web
 29. Interaction serveur-client.
 30. Projet numéro 3:Création d'une calculatrice en ligne.
 
